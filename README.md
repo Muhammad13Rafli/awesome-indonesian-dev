@@ -18,7 +18,7 @@
 - [Tools & Hosting Gratis](#tools--hosting-gratis)
 - [Job Board](#job-board)
 - [Conference & Event](#conference--event)
-- [Blog & Channel YouTube](#blog--channel-youtube)
+- [YouTube Indonesia](#youtube-indonesia)
 
 ---
 
@@ -30,10 +30,10 @@
 | Xendit | Payment API untuk Southeast Asia | [xendit.co](https://xendit.co) |
 | DOKU | Payment gateway lokal Indonesia | [doku.com](https://doku.com) |
 | BCA API | Open API dari Bank BCA | [developer.bca.co.id](https://developer.bca.co.id) |
-| BRI API | Open API dari Bank BRI | [briapi.co.id](https://briapi.co.id) |
-| Telkom DBS | API marketplace dari Telkom | [api.telkomdbs.id](https://api.telkomdbs.id) |
-| GOV Indonesia | Portal data terbuka pemerintah | [data.go.id](https://data.go.id) |
-| Kemendagri API | Data kependudukan | [dukcapil.kemendagri.go.id](https://dukcapil.kemendagri.go.id) |
+| Data Terbuka Indonesia | Portal data terbuka pemerintah | [data.go.id](https://data.go.id) |
+| API Lokal Indonesia | Kumpulan API lokal (community curated) | [GitHub](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) |
+| Quran API | API Al-Quran dengan terjemahan Indonesia | [GitHub](https://github.com/gadingnst/quran-api) |
+| API Wilayah Indonesia | Data provinsi, kota, kecamatan | [GitHub](https://github.com/emsifa/api-wilayah-indonesia) |
 
 ## Belajar Programming
 
@@ -41,20 +41,16 @@
 
 | Nama | Tipe | Link |
 |------|------|------|
-| Dicoding | Kursus online + sertifikasi | [dicoding.com](https://dicoding.com) |
+| Dicoding | Kursus online + sertifikasi (beasiswa tersedia) | [dicoding.com](https://dicoding.com) |
 | Sanbercode | Bootcamp & kursus online | [sanbercode.com](https://sanbercode.com) |
-| BuildWith Angga | Kursus web development | [buildwithangga.com](https://buildwithangga.com) |
 | Sekolah Koding | Kursus gratis & berbayar | [sekolahkoding.com](https://sekolahkoding.com) |
-| Programmer Zaman Now | Blog + YouTube | [azharimm.site](https://azharimm.site) |
 
-### Dokumentasi Bahasa Indonesia
+### Dokumentasi & Referensi
 
 | Nama | Topik | Link |
 |------|-------|------|
-| PHP Indonesia Docs | PHP | [phpindonesia.id](https://phpindonesia.id) |
-| React Indonesia | React.js | [reactjs.or.id](https://reactjs.or.id) |
 | Vue Indonesia | Vue.js | [vuejs.id](https://vuejs.id) |
-| Laravel Indonesia | Laravel | [laravel-indonesia.com](https://laravel-indonesia.com) |
+| Data Science Indonesia | Data science & ML | [datascience.or.id](https://datascience.or.id) |
 
 ## Bootcamp & Course
 
@@ -66,7 +62,6 @@
 | Binar Academy | 3-6 bulan | Gratis / Berbayar | [binaracademy.com](https://binaracademy.com) |
 | RevoU | 3-6 bulan | Berbayar (ISA available) | [revou.co](https://revou.co) |
 | Purwadhika | 3-12 bulan | Berbayar | [purwadhika.com](https://purwadhika.com) |
-| Alterra Academy | 3-6 bulan | Berbayar | [alterraacademy.com](https://alterraacademy.com) |
 | MyEduSolve | Kursus online | Berbayar | [myedusolve.com](https://myedusolve.com) |
 
 ## Komunitas Developer
@@ -75,30 +70,18 @@
 
 | Nama | Platform | Link |
 |------|----------|------|
-| PHP Indonesia | Facebook, Telegram | [fb.com/groups/PHPIndonesia](https://fb.com/groups/PHPIndonesia) |
-| React Indonesia | Discord, Facebook | [discord.gg/reactid](https://discord.gg/reactid) |
+| PHP Indonesia | Facebook, Telegram | [Facebook Group](https://fb.com/groups/PHPIndonesia) |
 | Python Indonesia | Telegram | [t.me/pythonID](https://t.me/pythonID) |
-| Golang Indonesia | Slack, Telegram | [gophers.slack.com](https://gophers.slack.com) |
-| JavaScript Indonesia | Discord | [discord.gg/jsid](https://discord.gg/jsid) |
-| Laravel Indonesia | Facebook, Telegram | [fb.com/groups/laravelindonesia](https://fb.com/groups/laravelindonesia) |
-| Android Developer ID | Facebook | [fb.com/groups/AndroidDevID](https://fb.com/groups/AndroidDevID) |
-| iOS Developer ID | Slack | [iosdev.id](https://iosdev.id) |
+| JavaScript Indonesia | Discord | [GitHub](https://github.com/GitIndonesia) |
+| Laravel Indonesia | Facebook, Telegram | [Facebook Group](https://fb.com/groups/laravelindonesia) |
+| Android Developer ID | Facebook | [Facebook Group](https://fb.com/groups/AndroidDevID) |
 
 ### Data & AI
 
 | Nama | Platform | Link |
 |------|----------|------|
 | Data Science Indonesia | Telegram, Meetup | [datascience.or.id](https://datascience.or.id) |
-| AI Indonesia | Telegram | [t.me/AIIndonesia](https://t.me/AIIndonesia) |
-| Machine Learning ID | Facebook | [fb.com/groups/MLIndonesia](https://fb.com/groups/MLIndonesia) |
-
-### DevOps & Cloud
-
-| Nama | Platform | Link |
-|------|----------|------|
-| AWS User Group Indonesia | Meetup | [awsug.id](https://awsug.id) |
-| Kubernetes Indonesia | Slack, Telegram | [kubernetes.id](https://kubernetes.id) |
-| DevOps Indonesia | Telegram | [t.me/DevOpsIndonesia](https://t.me/DevOpsIndonesia) |
+| Machine Learning ID | Facebook | [Facebook Group](https://fb.com/groups/MLIndonesia) |
 
 ## Dataset Indonesia
 
@@ -107,19 +90,26 @@
 | Data Terbuka Indonesia | Data pemerintah | [data.go.id](https://data.go.id) |
 | BPS Statistics | Demografi, ekonomi | [bps.go.id](https://bps.go.id) |
 | IndoNLP | NLP bahasa Indonesia | [github.com/IndoNLP](https://github.com/IndoNLP) |
-| IndoLEM | NLP benchmark | [github.com/IndoLEM](https://github.com/IndoLEM) |
-| ID-Sentiment | Sentiment analysis | [github.com/indobenchmark](https://github.com/indobenchmark) |
-| Indo4B | Word embeddings | [github.com/indolem](https://github.com/indolem) |
-| KLUE Indonesia | Knowledge graph | [github.com/KLUE-NLP](https://github.com/KLUE-NLP) |
+| IndoLEM | NLP benchmark bahasa Indonesia | [github.com/IndoLEM](https://github.com/IndoLEM) |
+| IndoNLP Resources | Kumpulan resource NLP Indonesia | [GitHub](https://github.com/kmkurn/id-nlp-resource) |
+| Indonesian NLP Resources | Data resource NLP bahasa Indonesia | [GitHub](https://github.com/kirralabs/indonesian-NLP-resources) |
+| IndoBenchmark | Pre-trained model bahasa Indonesia | [GitHub](https://github.com/indobenchmark) |
+| Data Wilayah Indonesia | Kode & data wilayah administrasi | [GitHub](https://github.com/cahyadsn/wilayah) |
 
 ## Open Source Lokal
 
 | Nama | Bahasa | Deskripsi | Stars |
 |------|--------|-----------|-------|
+| DAFTAR API LOKAL | Markdown | Kumpulan API Indonesia | ![](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA) |
+| Wilayah | SQL/CSV | Data wilayah administrasi Indonesia | ![](https://img.shields.io/github/stars/cahyadsn/wilayah) |
+| Get GitHub Achievements | Markdown | Tutorial GitHub achievements (Indonesian) | ![](https://img.shields.io/github/stars/4xmen/Get-Github-Achievements) |
+| Jaksel Script | Python | Bahasa pemrograman "Jaksel" | ![](https://img.shields.io/github/stars/RioChndr/jaksel-language) |
+| Wilayah Administratif | JSON | Data provinsi, kota, kecamatan | ![](https://img.shields.io/github/stars/edwardsamuel/Wilayah-Administratif-Indonesia) |
+| SusunJadwal | React | Course planner UI Indonesia | ![](https://img.shields.io/github/stars/ristekoss/susunjadwal-frontend) |
+| Quran API | Node.js | API Al-Quran Indonesia | ![](https://img.shields.io/github/stars/gadingnst/quran-api) |
+| API Wilayah Indonesia | Static | API data wilayah Indonesia | ![](https://img.shields.io/github/stars/emsifa/api-wilayah-indonesia) |
 | Laravolt | PHP | Toolkit Laravel Indonesia | ![](https://img.shields.io/github/stars/laravolt/laravolt) |
-| Koel | PHP | Music streaming server | ![](https://img.shields.io/github/stars/koel/koel) |
-| VexTab | JavaScript | Tab notation parser | ![](https://img.shields.io/github/stars/0xfe/vextab) |
-| Kibana Bahasa Indonesia | Docs | Terjemahan Kibana | ![](https://img.shields.io/github/stars/elastic/kibana-id) |
+| Koel | PHP | Music streaming server (by Indonesian dev) | ![](https://img.shields.io/github/stars/koel/koel) |
 
 ## Tools & Hosting Gratis
 
@@ -140,7 +130,6 @@
 |------|-------|------|
 | Cloudflare Registrar | Harga wholesale | [cloudflare.com](https://cloudflare.com) |
 | Namecheap | Murah, sering promo | [namecheap.com](https://namecheap.com) |
-| Freenom | Domain gratis (.tk, .ml) | [freenom.com](https://freenom.com) |
 
 ### Tools Developer
 
@@ -149,63 +138,41 @@
 | VS Code | IDE gratis | [code.visualstudio.com](https://code.visualstudio.com) |
 | Figma | Design tool gratis | [figma.com](https://figma.com) |
 | Postman | API testing | [postman.com](https://postman.com) |
-| Insomnia | API client | [insomnia.rest](https://insomnia.rest) |
 | Docker | Containerization | [docker.com](https://docker.com) |
 
 ## Job Board
 
 | Nama | Tipe | Link |
 |------|------|------|
+| Kalibrr | Startup & corporate | [kalibrr.com](https://kalibrr.com) |
+| Karir.com | General job board | [karir.com](https://karir.com) |
 | Glints | Startup & tech jobs | [glints.com/id](https://glints.com/id) |
-| Kalibrr | Corporate & startup | [kalibrr.com](https://kalibrr.com) |
 | Sribulancer | Freelance | [sribulancer.com](https://sribulancer.com) |
-| Projects.co.id | Freelance | [projects.co.id](https://projects.co.id) |
-| Karir.com | General | [karir.com](https://karir.com) |
-| Tech in Asia Jobs | Startup jobs | [techinasia.com/jobs](https://techinasia.com/jobs) |
-| Startup Jobs Asia | Startup jobs | [startupjobs.asia](https://startupjobs.asia) |
-| Remote OK | Remote jobs (global) | [remoteok.com](https://remoteok.com) |
-| We Work Remotely | Remote jobs (global) | [weworkremotely.com](https://weworkremotely.com) |
 
 ## Conference & Event
 
 | Nama | Tipe | Link |
 |------|------|------|
-| Tech in Asia Conference | Tech conference | [techinasia.com/conference](https://techinasia.com/conference) |
+| Tech in Asia Conference | Tech conference | [techinasia.com](https://techinasia.com) |
 | DevCon Indonesia | Developer conference | [devcon.id](https://devcon.id) |
 | Google Developer Group | Meetup & workshop | [gdg.community.dev](https://gdg.community.dev) |
-| Startup Weekend | Hackathon | [techstars.com/startup-weekend](https://techstars.com/startup-weekend) |
-| HackJakarta | Hackathon | [hackjakarta.com](https://hackjakarta.com) |
-| Python Indonesia Meetup | Monthly meetup | [meetup.com/python-indonesia](https://meetup.com/python-indonesia) |
-| React Indonesia Meetup | Monthly meetup | [meetup.com/react-indonesia](https://meetup.com/react-indonesia) |
 
-## Blog & Channel YouTube
-
-### Blog
-
-| Nama | Topik | Link |
-|------|-------|------|
-| Programmer Zaman Now | Full-stack, DevOps | [azharimm.site](https://azharimm.site) |
-| Ega Wachid | Web development | [egawachid.com](https://egawachid.com) |
-| Panji Putra | Android development | [panjiputra.com](https://panjiputra.com) |
-| Web Programming UNPAS | Web development | [webprogrammingunpas.com](https://webprogrammingunpas.com) |
-
-### YouTube
+## YouTube Indonesia
 
 | Nama | Subscriber | Topik | Link |
 |------|-----------|-------|------|
-| Web Programming UNPAS | 1M+ | Web development | [youtube.com/@sandhikagalih](https://youtube.com/@sandhikagalih) |
-| Programmer Zaman Now | 500K+ | Full-stack | [youtube.com/@azharimm](https://youtube.com/@azharimm) |
-| Eko Kurniawan | 300K+ | JavaScript, Node.js | [youtube.com/@ekokurniawan](https://youtube.com/@ekokurniawan) |
-| Dennis Zecha | 200K+ | React, Next.js | [youtube.com/@DennisZecha](https://youtube.com/@DennisZecha) |
-| Nihongo Mantappu | 1M+ | (Juga tech content) | [youtube.com/@NihongoMantappu](https://youtube.com/@NihongoMantappu) |
-| Prawito Hudoro | 200K+ | React Native, Flutter | [youtube.com/@prawitohudoro](https://youtube.com/@prawitohudoro) |
-| Sandhika Galih | 1M+ | Web development | [youtube.com/@sandhikagalih](https://youtube.com/@sandhikagalih) |
+| Web Programming UNPAS | 994K | Web development | [@sandhikagalih](https://youtube.com/@sandhikagalih) |
+| Kelas Terbuka | 994K | Programming dasar | [@kelasterbuka](https://youtube.com/@kelasterbuka) |
+| Nihongo Mantappu | 721K | Tech & lifestyle | [@NihongoMantappu](https://youtube.com/@NihongoMantappu) |
+| Programmer Zaman Now | 500K+ | Full-stack, DevOps | [@azharimm](https://youtube.com/@azharimm) |
+| Eko Kurniawan | 300K+ | JavaScript, Node.js | [@ekokurniawan](https://youtube.com/@ekokurniawan) |
+| Prawito Hudoro | 200K+ | React Native, Flutter | [@prawitohudoro](https://youtube.com/@prawitohudoro) |
 
 ---
 
 ## Contributing
 
-Mau menambahkan resource? Silakan buka [Issue](https://github.com/Muhammad13Rafli/awesome-indonesian-dev/issues) atau kirim [Pull Request](https://github.com/Muhammad13Rafli/awesome-indonesian-dev/pulls)!
+Mau menambahkan resource? Silakan buka [Issue](https://github.com/Muhammad13Rafli/awesome-indonesian-dev/issues/new) atau kirim [Pull Request](https://github.com/Muhammad13Rafli/awesome-indonesian-dev/pulls)!
 
 Lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan.
 
