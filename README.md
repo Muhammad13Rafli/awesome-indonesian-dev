@@ -100,16 +100,16 @@
 
 | Nama | Bahasa | Deskripsi | Stars |
 |------|--------|-----------|-------|
-| DAFTAR API LOKAL | Markdown | Kumpulan API Indonesia | ![](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA) |
-| Wilayah | SQL/CSV | Data wilayah administrasi Indonesia | ![](https://img.shields.io/github/stars/cahyadsn/wilayah) |
-| Get GitHub Achievements | Markdown | Tutorial GitHub achievements (Indonesian) | ![](https://img.shields.io/github/stars/4xmen/Get-Github-Achievements) |
-| Jaksel Script | Python | Bahasa pemrograman "Jaksel" | ![](https://img.shields.io/github/stars/RioChndr/jaksel-language) |
-| Wilayah Administratif | JSON | Data provinsi, kota, kecamatan | ![](https://img.shields.io/github/stars/edwardsamuel/Wilayah-Administratif-Indonesia) |
-| SusunJadwal | React | Course planner UI Indonesia | ![](https://img.shields.io/github/stars/ristekoss/susunjadwal-frontend) |
-| Quran API | Node.js | API Al-Quran Indonesia | ![](https://img.shields.io/github/stars/gadingnst/quran-api) |
-| API Wilayah Indonesia | Static | API data wilayah Indonesia | ![](https://img.shields.io/github/stars/emsifa/api-wilayah-indonesia) |
-| Laravolt | PHP | Toolkit Laravel Indonesia | ![](https://img.shields.io/github/stars/laravolt/laravolt) |
-| Koel | PHP | Music streaming server (by Indonesian dev) | ![](https://img.shields.io/github/stars/koel/koel) |
+| [DAFTAR API LOKAL](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) | Markdown | Kumpulan API Indonesia | 5200+ |
+| [Wilayah](https://github.com/cahyadsn/wilayah) | SQL/CSV | Data wilayah administrasi Indonesia | 1100+ |
+| [Get GitHub Achievements](https://github.com/4xmen/Get-Github-Achievements) | Markdown | Tutorial GitHub achievements (Indonesian) | 1300+ |
+| [Jaksel Script](https://github.com/RioChndr/jaksel-language) | Python | Bahasa pemrograman "Jaksel" | 960 |
+| [Wilayah Administratif](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) | JSON | Data provinsi, kota, kecamatan | 950+ |
+| [SusunJadwal](https://github.com/ristekoss/susunjadwal-frontend) | React | Course planner UI Indonesia | 900 |
+| [Quran API](https://github.com/gadingnst/quran-api) | Node.js | API Al-Quran Indonesia | 810+ |
+| [API Wilayah Indonesia](https://github.com/emsifa/api-wilayah-indonesia) | Static | API data wilayah Indonesia | 700+ |
+| [Laravolt](https://github.com/laravolt/laravolt) | PHP | Toolkit Laravel Indonesia | 63 |
+| [Koel](https://github.com/koel/koel) | PHP | Music streaming server (by Indonesian dev) | 17000+ |
 
 ## Tools & Hosting Gratis
 
